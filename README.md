@@ -5,10 +5,16 @@ On this repository you will find the following notebooks:
 **DATA LOAD**
 * Code that loads all data from season 3. This file will collect functions from following notebooks: 
 > * Angle
+>> * calculate angle between two vectors
+
 > * DELTA 
+>> * Calculate time between the boat round the mark and the first boat rounding a mark 
 > * Leaderboard 
+>> * Calculating the position that a boat rounds a mark
 > * sequence 
+>> * Calculate the perioed of a race to exclude all non-racing data
 > * race_timestamps 
+>> * is used to for the function 'sequence'
 
 **TWD_gate_angles**
 * This notebook is the primary notebook. It has the following Table of Contents:
