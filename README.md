@@ -2,7 +2,7 @@
 
 On this repository you will find the following notebooks: 
 
-DATA LOAD
+**DATA LOAD**
 * Code that loads all data from season 3. This file will collect functions from following notebooks: 
 > * Angle
 > * DELTA 
@@ -10,7 +10,7 @@ DATA LOAD
 > * sequence 
 > * race_timestamps 
 
-TWD_gate_angles
+**TWD_gate_angles**
 * This notebook is the primary notebook. It has the following Table of Contents:
 * > * **1. Loading and preparing XML files (race course)**
 > * **2. Meters won at gate marks**
@@ -33,7 +33,8 @@ TWD_gate_angles
 > * **8 Splitting with the fleet**
 >> * 8.1 Subcnclussion 
 
-
+**XML positions and maps**
+* This notebook contain the load of XML files and plotting of the courses around the world. 
 
 
 
