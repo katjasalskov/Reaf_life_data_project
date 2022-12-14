@@ -12,6 +12,8 @@ On this repository you will find the following notebooks:
 
 **TWD_gate_angles**
 * This notebook is the primary notebook. It has the following Table of Contents:
+> * **0. Introduction**
+    >> * 0.1 Problem definition
 * > * **1. Loading and preparing XML files (race course)**
 > * **2. Meters won at gate marks**
     >> * 2.1 Meeters gain by taking left turn at LW gate (LW1 gate mark)
